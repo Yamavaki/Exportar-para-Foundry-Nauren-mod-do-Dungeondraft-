@@ -1,0 +1,8 @@
+{
+    "name": "Exportar para Foundry (Nauren)",
+    "unique_id": "Nauren.FoundryExport",
+    "version": "1.0.5",
+    "author": "Gustavo Yamavaki (Nauren RPG)",
+    "description": "Exporta o mapa para o Foundry VTT: .dd2vtt sem imagem + imagem separada (WebP, PNG ou JPEG), com o nome do andar no arquivo, a moldura usada em cada porta e a abertura medida pela moldura. Feito para o importador DD2VTT URL Importer.",
+    "dd_version": "1.2.0.1"
+}
